@@ -1,0 +1,28 @@
+{
+  "12D3KooWPJRbfpPgnWLbXqXfDZGyVaA6StDxrz2WayES4ZniaTaF": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "AMD Ryzen 5 3400G",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2",
+      "sse3",
+      "ssse3",
+      "sse4_1"
+    ],
+    "numOfProcessors": 7,
+    "totalMemory": 28991029248
+  },
+  "12D3KooWQUnmqasZCXqevxVxReb1rkpJmVqu3ov7Kn1Z7wXHaacv": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "Intel Core i9-10980HK",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2",
+      "sse3"
+    ],
+    "numOfProcessors": 10,
+    "totalMemory": 26843545600
+  }
+}
